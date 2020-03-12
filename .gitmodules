@@ -1,0 +1,3 @@
+[submodule "mpir"]
+	path = mpir
+	url = git@github.com:BrianGladman/mpir.git
